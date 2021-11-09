@@ -3,6 +3,18 @@ entries:
   provisioner:
   - apiVersion: v1
     appVersion: 2.4.0
+    created: "2021-11-09T21:39:04.034970834Z"
+    description: local provisioner chart
+    digest: 2108f51305283c1259ff1a91b86ca3d765f4591e2570d82d5107299fad106ef5
+    keywords:
+    - storage
+    - local
+    name: provisioner
+    urls:
+    - https://github.com/skylenet/sig-storage-local-static-provisioner/releases/download/provisioner-2.5.1/provisioner-2.5.1.tgz
+    version: 2.5.1
+  - apiVersion: v1
+    appVersion: 2.4.0
     created: "2021-11-09T21:11:30.453713475Z"
     description: local provisioner chart
     digest: a23fa67fd3875366296f756b8c9eba78f90119c32f4385b7bfe61d409c3cdf0d
@@ -13,4 +25,4 @@ entries:
     urls:
     - https://github.com/skylenet/sig-storage-local-static-provisioner/releases/download/provisioner-2.5.0/provisioner-2.5.0.tgz
     version: 2.5.0
-generated: "2021-11-09T21:11:30.453719375Z"
+generated: "2021-11-09T21:39:04.034978534Z"
